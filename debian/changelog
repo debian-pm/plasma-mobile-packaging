@@ -1,3 +1,9 @@
+plasma-mobile (1:4.10+git20170117-1) UNRELEASED; urgency=medium
+
+  * New snapshot
+
+ -- JBBgameich <jbb.mail@gmx.de>  Fri, 28 Jul 2017 20:08:23 +0200
+
 plasma-mobile (1:4.10-0ubuntu1) vivid; urgency=medium
 
   * Initial package
