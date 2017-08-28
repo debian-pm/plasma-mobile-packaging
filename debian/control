@@ -36,13 +36,3 @@ Depends: plasma-framework,
          ${shlibs:Depends}
 Description: mobile shell from Plasma
  A workspace for your phone using KDE's Plasma.
-
-Package: plasma-mobile-dbg
-Section: debug
-Architecture: any
-Priority: extra
-Depends: plasma-mobile (= ${binary:Version}), ${misc:Depends}
-Description: mobile shell from Plasma - debugging symbols
- A workspace for your phone using KDE's Plasma.
- .
- This package contains the debugging symbols.
