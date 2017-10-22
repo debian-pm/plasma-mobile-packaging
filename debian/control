@@ -21,7 +21,7 @@ Build-Depends: baloo-kf5-dev,
                plasma-framework-dev,
                qtbase5-dev,
                qtdeclarative5-dev
-Standards-Version: 3.9.6
+Standards-Version: 4.1.1
 Homepage: https://projects.kde.org/projects/extragear/base/plasma-mobile
 Vcs-Browser: https://github.com/plasma-mobile/plasma-mobile-packaging
 Vcs-Git: https://github.com/plasma-mobile/plasma-mobile-packaging.git
